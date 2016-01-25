@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Ludo Bouan]]></title>
         <description><![CDATA[Ludo Bouan]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ludo-bouan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jan 2016 19:29:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Jan 2016 19:51:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ludo-bouan/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b01ae54b37a0b818ae5105773b1b566e3b1dd828.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/ludo-bouan/b38d0796-f3cb-4516-a4f1-52402cda3370/index.html</link>
+            <guid isPermaLink="false">b38d0796-f3cb-4516-a4f1-52402cda3370</guid>
+            <pubDate>Mon, 25 Jan 2016 19:51:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Lorem Ipsum</p>]]></description>
-            <link>undefined2ca61c1c-81f6-46b2-a670-a0700db7d351/index.html</link>
+            <link>https://thegrid.ai/ludo-bouan/2ca61c1c-81f6-46b2-a670-a0700db7d351/index.html</link>
             <guid isPermaLink="false">2ca61c1c-81f6-46b2-a670-a0700db7d351</guid>
             <pubDate>Mon, 25 Jan 2016 19:28:35 GMT</pubDate>
         </item>
