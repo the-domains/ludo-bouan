@@ -1,0 +1,28 @@
+name: Ludo Bouan
+favicon: null
+layout_spectrum: 0.0895277198869735
+typography_spectrum: 0.8877459461800754
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.7178720452357084
+  lightness: 0.7944799729157239
+  saturation: 0.7216906943358481
+  rhythmicContrast: 0.47444745479151607
+purpose: []
