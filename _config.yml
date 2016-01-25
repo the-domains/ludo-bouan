@@ -1,6 +1,6 @@
 name: Ludo Bouan
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.48765
 typography_spectrum: 0.8877459461800754
 title: Ludo Bouan
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3f6e93'
-    - '#ecc89c'
-    - '#938980'
-    - '#745241'
-    - '#220a01'
+    - '#b49484'
+    - '#5a6d84'
+    - '#021328'
+    - '#493f48'
+    - '#fedead'
   brandStrength: 0.7178720452357084
   lightness: 0.7944799729157239
   saturation: 0.7216906943358481
